@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59D923AD-2D7D-4293-B85A-861FA037BE17}|ApiGateway\\ApiGateway.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59D923AD-2D7D-4293-B85A-861FA037BE17}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\dtos\\createtransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\dtos\\createtransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\dtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\dtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\events\\transactioncompletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\events\\transactioncompletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\data\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\data\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\loanservice\\models\\loandocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|solutionrelative:loanservice\\models\\loandocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\loanservice\\data\\loandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|solutionrelative:loanservice\\data\\loandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\loanservice\\controllers\\loandocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|solutionrelative:loanservice\\controllers\\loandocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\services\\transactioneventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\services\\transactioneventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\events\\transactioncompletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\events\\transactioncompletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\wwwroot\\uploads\\e8403ef8-97e4-481e-b177-2deb2153a408.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\wwwroot\\uploads\\e8403ef8-97e4-481e-b177-2deb2153a408.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D923AD-2D7D-4293-B85A-861FA037BE17}|ApiGateway\\ApiGateway.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D923AD-2D7D-4293-B85A-861FA037BE17}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D923AD-2D7D-4293-B85A-861FA037BE17}|ApiGateway\\ApiGateway.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59D923AD-2D7D-4293-B85A-861FA037BE17}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\loanservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|solutionrelative:loanservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D923AD-2D7D-4293-B85A-861FA037BE17}|ApiGateway\\ApiGateway.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59D923AD-2D7D-4293-B85A-861FA037BE17}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D923AD-2D7D-4293-B85A-861FA037BE17}|ApiGateway\\ApiGateway.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\apigateway\\apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{59D923AD-2D7D-4293-B85A-861FA037BE17}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\loanservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|solutionrelative:loanservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\loanservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|solutionrelative:loanservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\transactionservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\transactionservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\transactionservice\\migrations\\20261102184903_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2EB10-FB3E-4553-B8F8-33B11D6098CE}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\migrations\\20261102184903_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\loanservice\\migrations\\20261102184721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC103EE1-0219-4B4F-934F-8C6EFE146745}|LoanService\\LoanService.csproj|solutionrelative:loanservice\\migrations\\20261102184721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|c:\\users\\allah\\onedrive\\desktop\\bankmicroservices\\customerservice\\migrations\\20261102184656_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39F044E-FB4B-4BB8-AD4E-007AB41B0D21}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\migrations\\20261102184656_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMqPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Services\\RabbitMqPublisher.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Services\\RabbitMqPublisher.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Services\\RabbitMqPublisher.cs",
+              "RelativeToolTip": "TransactionService\\Services\\RabbitMqPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:26:05.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "TransactionService\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:27:46.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Dtos\\CreateTransactionDto.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Dtos\\CreateTransactionDto.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Dtos\\CreateTransactionDto.cs",
+              "RelativeToolTip": "TransactionService\\Dtos\\CreateTransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T19:35:55.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\ApiGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Ocelot.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\ApiGateway\\Ocelot.json",
+              "RelativeToolTip": "ApiGateway\\Ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T16:39:27.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerService\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T15:47:26.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\DTOs\\CreateCustomerDto.cs",
+              "RelativeDocumentMoniker": "CustomerService\\DTOs\\CreateCustomerDto.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\DTOs\\CreateCustomerDto.cs",
+              "RelativeToolTip": "CustomerService\\DTOs\\CreateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T15:46:57.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerService\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T15:32:37.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Data\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Data\\CustomerDbContext.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Data\\CustomerDbContext.cs",
+              "RelativeToolTip": "CustomerService\\Data\\CustomerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T15:46:06.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Program.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Program.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Program.cs",
+              "RelativeToolTip": "TransactionService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:27:56.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Models\\Transaction.cs",
+              "RelativeToolTip": "TransactionService\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:22:22.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionCompletedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Events\\TransactionCompletedEvent.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Events\\TransactionCompletedEvent.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Events\\TransactionCompletedEvent.cs",
+              "RelativeToolTip": "TransactionService\\Events\\TransactionCompletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:24:00.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Data\\TransactionDbContext.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Data\\TransactionDbContext.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Data\\TransactionDbContext.cs",
+              "RelativeToolTip": "TransactionService\\Data\\TransactionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:22:59.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoanDocument.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Models\\LoanDocument.cs",
+              "RelativeDocumentMoniker": "LoanService\\Models\\LoanDocument.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Models\\LoanDocument.cs",
+              "RelativeToolTip": "LoanService\\Models\\LoanDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:31:39.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoanDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Data\\LoanDbContext.cs",
+              "RelativeDocumentMoniker": "LoanService\\Data\\LoanDbContext.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Data\\LoanDbContext.cs",
+              "RelativeToolTip": "LoanService\\Data\\LoanDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:36:07.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoanDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Controllers\\LoanDocumentsController.cs",
+              "RelativeDocumentMoniker": "LoanService\\Controllers\\LoanDocumentsController.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Controllers\\LoanDocumentsController.cs",
+              "RelativeToolTip": "LoanService\\Controllers\\LoanDocumentsController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAowAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:36:38.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Program.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Program.cs",
+              "RelativeToolTip": "CustomerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T15:48:58.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Services\\TransactionEventConsumer.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Services\\TransactionEventConsumer.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Services\\TransactionEventConsumer.cs",
+              "RelativeToolTip": "CustomerService\\Services\\TransactionEventConsumer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T19:44:45.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionCompletedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Events\\TransactionCompletedEvent.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Events\\TransactionCompletedEvent.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Events\\TransactionCompletedEvent.cs",
+              "RelativeToolTip": "CustomerService\\Events\\TransactionCompletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T19:43:51.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "e8403ef8-97e4-481e-b177-2deb2153a408.jpg - Bitmap [640x471, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\wwwroot\\Uploads\\e8403ef8-97e4-481e-b177-2deb2153a408.jpg",
+              "RelativeDocumentMoniker": "CustomerService\\wwwroot\\Uploads\\e8403ef8-97e4-481e-b177-2deb2153a408.jpg",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\wwwroot\\Uploads\\e8403ef8-97e4-481e-b177-2deb2153a408.jpg - Bitmap [640x471, 24 bit, JPG]",
+              "RelativeToolTip": "CustomerService\\wwwroot\\Uploads\\e8403ef8-97e4-481e-b177-2deb2153a408.jpg - Bitmap [640x471, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-11-02T21:54:09.013Z",
+              "EditorCaption": " - Bitmap [640x471, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\appsettings.json",
+              "RelativeToolTip": "CustomerService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T15:47:54.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T18:30:46.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:39:45.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LoanService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LoanService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T17:07:36.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T17:07:11.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T17:06:45.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TransactionService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TransactionService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T17:08:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiGateway",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T20:34:19.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20261102184903_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Migrations\\20261102184903_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Migrations\\20261102184903_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\Migrations\\20261102184903_InitialCreate.cs",
+              "RelativeToolTip": "TransactionService\\Migrations\\20261102184903_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T18:49:03.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\appsettings.json",
+              "RelativeDocumentMoniker": "TransactionService\\appsettings.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\appsettings.json",
+              "RelativeToolTip": "TransactionService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T16:29:30.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20261102184721_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Migrations\\20261102184721_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LoanService\\Migrations\\20261102184721_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Migrations\\20261102184721_InitialCreate.cs",
+              "RelativeToolTip": "LoanService\\Migrations\\20261102184721_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T18:47:22.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\appsettings.json",
+              "RelativeDocumentMoniker": "LoanService\\appsettings.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\appsettings.json",
+              "RelativeToolTip": "LoanService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T16:37:18.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20261102184656_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Migrations\\20261102184656_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Migrations\\20261102184656_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\CustomerService\\Migrations\\20261102184656_InitialCreate.cs",
+              "RelativeToolTip": "CustomerService\\Migrations\\20261102184656_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T18:46:56.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Program.cs",
+              "RelativeDocumentMoniker": "LoanService\\Program.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\LoanService\\Program.cs",
+              "RelativeToolTip": "LoanService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:36:54.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TransactionService.csproj",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\TransactionService.csproj",
+              "RelativeDocumentMoniker": "TransactionService\\TransactionService.csproj",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\BankMicroservices\\TransactionService\\TransactionService.csproj",
+              "RelativeToolTip": "TransactionService\\TransactionService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T16:25:05.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\allah\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt",
+              "ToolTip": "C:\\Users\\allah\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.121\\readme.txt",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-02T15:44:04.336Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
